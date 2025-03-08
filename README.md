@@ -10,6 +10,14 @@ This **Text Emotion Detection** project is a **machine learning-based web app** 
 - Interactive web interface with **Streamlit**
 - Visual representation of prediction probabilities using **Altair charts**
 
+## 📸 Screenshots
+
+### Main Model UI
+![Main Model UI](Demo-Working Demo/Screenshot 2025-03-08 210738.png)
+
+### Emotion Detection Result
+![Result Emotion](Result%20Emotion.png)
+
 ## 📦 Installation & Setup
 ```bash
 # Clone the repository
