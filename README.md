@@ -16,7 +16,7 @@ This **Text Emotion Detection** project is a **machine learning-based web app** 
 ![Main Model UI](Demo-Working%20Demo/Screenshot%202025-03-08%20210738.png).
 
 ### Emotion Detection Result
-![Result Emotion](Demo-Working%20Demo/Screenshot%202025-03-08%20210738.png)
+![Result Emotion](Demo-Working%20Demo/Screenshot%202025-03-08%20210807.png)
 
 ## 📦 Installation & Setup
 ```bash
